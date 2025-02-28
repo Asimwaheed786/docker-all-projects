@@ -1,0 +1,1 @@
+{"name":"AsimWaheed","version":"1.0.0","scripts":{"start":"nodemon src/index.js","start:prod":"node src/index.js"},"dependencies":{"express":"^4.21.2"},"devDependencies":{"nodemon":"^2.0.6"}}
